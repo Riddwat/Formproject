@@ -1,0 +1,38 @@
+#newform{
+    text-align: center;
+}
+
+
+h2{
+   color:darkgoldenrod
+}
+
+
+.form{
+    background-color: aqua;
+    padding: 50px;
+    margin: 50px;
+    margin-top: 50px;
+}
+
+input{
+    text-align: center;
+    background-color: transparent;
+    border: none;
+    border-bottom: solid white;
+    font-size: 20px;
+}
+
+a{
+    color:yellow
+}
+
+
+button{
+height: 30px;
+width: 90px;
+background-color: black;
+color: blue;
+border: none;
+border-radius: 50px;
+}
